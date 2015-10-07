@@ -1,0 +1,46 @@
+C:\Users\user\documents\visual studio 2010\Projects\Project -IC\Project -IC\bin\Debug\Project -IC.exe
+C:\Users\user\documents\visual studio 2010\Projects\Project -IC\Project -IC\bin\Debug\Project -IC.pdb
+C:\Users\user\documents\visual studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project -IC.exe
+C:\Users\user\documents\visual studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project -IC.pdb
+C:\Users\user\documents\visual studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.ProRad.resources
+C:\Users\user\documents\visual studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Energia.resources
+C:\Users\user\documents\visual studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project -IC.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Fluência.resources
+C:\Users\user\documents\visual studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project -IC.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Taxa_de_Fluência.resources
+C:\Users\user\documents\visual studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Fluência_em_Energia.resources
+C:\Users\user\documents\visual studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Taxa_de_Fluência_em_Energia.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\bin\Debug\Project -IC.exe.config
+C:\Users\user\documents\visual studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Kerma.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Ajuda.resources
+C:\Users\user\documents\visual studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Imagens.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\bin\Debug\Radiação Ionizante 1.jpg
+C:\Users\user\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project -IC.csproj.ResolveComReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Videos.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\bin\Debug\Vídeo 1.wmv
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\bin\Debug\Project -IC.exe.manifest
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\bin\Debug\Project -IC.application
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project -IC.exe.manifest
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project -IC.application
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.KermaColisão.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Taxa_de_Kerma.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Dose_Absorvida.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Taxa_Dose_Absorvida.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Exposição_Kerma_.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Exposição.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Taxa_Exposição.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Dose_Equivalente.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Atenuação_Exponencial_Simples.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Atenuação_Exponencial_Composta.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Equilíbrio_de_Radiação.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Equilíbrio_da_Partícula_Carregada.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\bin\Debug\af-ZA\Project -IC.resources.dll
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Dose_Absorvida_e_Exposição.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Dose_Absorvida_e_Exposição.af-ZA.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\af-ZA\Project -IC.resources.dll
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Project -IC\Project -IC\obj\x86\Debug\Project__IC.Poder_de_Parada___Partículas_Pesadas.resources
